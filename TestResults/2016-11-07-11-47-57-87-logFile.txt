@@ -1,0 +1,27 @@
+2016-11-07-11:47:57 - Start the Firefox driver
+2016-11-07-11:48:08 - Set implicitly wait timeout 30
+2016-11-07-11:48:08 - Go to http://10.0.30.2:8082/
+2016-11-07-11:48:09 - Find element By.XPath: //a[text()='CONTACT US']
+2016-11-07-11:48:10 - Click at the element
+2016-11-07-11:48:10 - Find element By.Id: edit-submitted-organization
+2016-11-07-11:48:11 - Click at the element
+2016-11-07-11:48:11 - Find element By.Id: edit-submitted-title
+2016-11-07-11:48:11 - Click at the element
+2016-11-07-11:48:12 - Find element By.Id: edit-submitted-first-name
+2016-11-07-11:48:12 - Click at the element
+2016-11-07-11:48:12 - Find element By.Id: edit-submitted-last-name
+2016-11-07-11:48:12 - Click at the element
+2016-11-07-11:48:12 - Find element By.Id: edit-submitted-contact-number
+2016-11-07-11:48:12 - Click at the element
+2016-11-07-11:48:12 - Find element By.Id: edit-submitted-email
+2016-11-07-11:48:12 - Click at the element
+2016-11-07-11:48:12 - Find element By.Id: edit-submit
+2016-11-07-11:48:12 - Click at the element
+2016-11-07-11:48:13 - Find element By.XPath: //div[@class='links']
+2016-11-07-11:48:13 - Click at the element
+2016-11-07-11:48:13 - Driver the url
+2016-11-07-11:48:13 - ==========ShouldBeEqualsTo==========
+2016-11-07-11:48:13 - Expected value is: http://10.0.30.2:8082/contact-us
+2016-11-07-11:48:13 - Actual value is: http://10.0.30.2:8082/node/104/done?sid=1372
+2016-11-07-11:48:13 - =============================
+2016-11-07-11:48:13 - Quit the driver

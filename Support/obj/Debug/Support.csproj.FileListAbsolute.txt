@@ -1,0 +1,10 @@
+C:\Users\jie.sheng\Desktop\Selenium介绍\SeleniumSpecflow\Support\bin\Debug\Support.dll
+C:\Users\jie.sheng\Desktop\Selenium介绍\SeleniumSpecflow\Support\bin\Debug\Support.pdb
+C:\Users\jie.sheng\Desktop\Selenium介绍\SeleniumSpecflow\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\Users\jie.sheng\Desktop\Selenium介绍\SeleniumSpecflow\Support\obj\Debug\Support.dll
+C:\Users\jie.sheng\Desktop\Selenium介绍\SeleniumSpecflow\Support\obj\Debug\Support.pdb
+C:\Users\Administrator\Desktop\陈小龙-Selenium\Support\bin\Debug\Support.dll
+C:\Users\Administrator\Desktop\陈小龙-Selenium\Support\bin\Debug\Support.pdb
+C:\Users\Administrator\Desktop\陈小龙-Selenium\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\陈小龙-Selenium\Support\obj\Debug\Support.dll
+C:\Users\Administrator\Desktop\陈小龙-Selenium\Support\obj\Debug\Support.pdb

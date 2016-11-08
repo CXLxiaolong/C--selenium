@@ -1,0 +1,11 @@
+2016-11-07-11:48:28 - Start the Firefox driver
+2016-11-07-11:48:38 - Set implicitly wait timeout 30
+2016-11-07-11:48:39 - Go to http://10.0.30.2:8082/
+2016-11-07-11:48:39 - Find element By.XPath: //a[text()='CONTACT US']
+2016-11-07-11:48:40 - Click at the element
+2016-11-07-11:48:40 - Find element By.LinkText: Login
+2016-11-07-11:48:41 - Click at the element
+2016-11-07-11:48:41 - Driver the url
+2016-11-07-11:48:42 - Find element By.Id: edit-submit
+2016-11-07-11:48:42 - is Displayed
+2016-11-07-11:48:42 - Quit the driver

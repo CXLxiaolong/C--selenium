@@ -1,0 +1,66 @@
+﻿VS filter: testpath:TestAssembly:Selenium/Feature:SpecFlowFeature1/Scenario:Click+Go+back+to+the+form
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Administrator\Desktop\陈小龙-Selenium\Selenium\bin\Debug\Selenium.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Selenium/Default - 
+#1: Default - 
+#2: Selenium - 
+#3: SpecFlowFeature1 - 
+#14: Click Go back to the form - TestAssembly:Selenium/Feature:SpecFlowFeature1/Scenario:Click+Go+back+to+the+form
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #14 from normal test queue 
+Thread#0:Scheduler: considering testitem #14 for thread
+Thread#0:Scheduler: using testitem #14 for thread
+Thread#0:Scheduler: Test #14 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Selenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#1:Scheduler: enumerator for thread is at end
+Thread#1:Scheduler: No more tests for thread 
+Thread#2:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#2:Scheduler: enumerator for thread is at end
+Thread#2:Scheduler: No more tests for thread 
+Thread#3:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#3:Scheduler: enumerator for thread is at end
+Thread#3:Scheduler: No more tests for thread 
+Thread#4:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#4:Scheduler: enumerator for thread is at end
+Thread#4:Scheduler: No more tests for thread 
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Administrator\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #14/0 is started on thread #0
+Thread#0:B:Given I choose local firefox to start
+Thread#0:T:Start the Firefox driver
+Thread#0:T:error: Unable to bind to locking port 7054 within 45000 milliseconds
+Thread#0:B:And forward to 'http://10.0.30.2:8082/'
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I navigate to contact us page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When Input "xiaolong.chen@dilatoit.com" to Email and move course to other item
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I click the Submit button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And click the Go back to the form button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then The edit page displayed
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #14/0 is finished on thread #0 as Failed within 45.3082164 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
